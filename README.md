@@ -8,6 +8,8 @@ If you are **not** running Windows, you will have to install [Calibri](https://w
 
 Carlito is possibly already [packaged](https://pkgs.org/search/?q=carlito) for your system.
 
+If you have correctly installed one of fonts, you can ignore Typst warning about missing the other.
+
 ## Project Plan
 
 ### Usage

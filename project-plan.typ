@@ -45,6 +45,7 @@
   set par(
     justify: true,
     leading: 1.2em,
+    spacing: 2.25em,
   )
 
   set raw(
@@ -91,14 +92,6 @@
     )
 
     underline(it)
-  }
-
-  show par: it => {
-    set block(
-      spacing: 2.25em,
-    )
-
-    it
   }
 
   show raw.where(block: false): it => {
